@@ -1,6 +1,6 @@
 # LateralNet
 
-Developed by Raiyan Aaijaz
+Developed by Raiyan Aaijaz & Heeya Shah
 
 LateralNet explores biologically inspired **lateral inhibition and excitation** in convolutional networks to improve **face recognition under occlusion**. By modifying ResNet-18/50 with custom PyTorch layers, the project demonstrates improved robustness when faces are partially obscured (e.g., masks, sunglasses).
 
