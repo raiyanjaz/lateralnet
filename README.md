@@ -17,7 +17,7 @@ LateralNet explores biologically inspired **lateral inhibition and excitation** 
 ## Repository Structure
 - `notebooks/` – Jupyter notebook containing training, evaluation, and visualizations
 - `results/` – Accuracy tables and heatmaps
-- `docs/` – Project report (optional)
+- `docs/` – Project report
 
 ---
 
